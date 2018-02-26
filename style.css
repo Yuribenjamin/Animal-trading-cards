@@ -1,0 +1,42 @@
+.owl{
+	text-align: center;
+	font-size: 20px;
+	font-style: italic;
+	border: 1px solid #e0e0eb;
+	border-radius: 5px;
+	border-color: black;
+
+
+}
+.barnowl {
+	width: 300px;
+	margin: 10px;
+	padding: 10px 5px 10px 5px;
+	font-size: 14px;
+	font-style: italic;
+	border: 1px solid #e0e0eb;
+	border-radius: 5px;
+	border-color: black;
+	box-shadow: 4px 4px 2px lightgrey;
+
+}
+.description{
+	border: 1px solid #e0e0eb;
+	border-radius: 1px;
+	border-color: black;
+	border-radius: 5px;
+	padding: 5px;
+	margin: 5px 1px 1px 1px;
+}
+.image{
+	border-radius: 10px;
+}
+.bold{
+	font-weight: bold;
+}
+li{
+	list-style: none;
+}
+ul{
+	padding: 0px;
+}
