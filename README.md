@@ -2,7 +2,7 @@
 
 First project in Google Developer Scholarship.
 This Project Passed on HTML, CSS languages.
-Small Project Describe The Barn Owl, Average Length, Average life span, Habitat.
+Small Project Describe The Barn Owl, Average Length, Average lifespan, Habitat.
 
 ## Contribute
 
