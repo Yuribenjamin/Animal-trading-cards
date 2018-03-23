@@ -1,4 +1,4 @@
-## Animal-trading-cards
+# Animal-trading-cards
 
 First project in Google Developer Scholarship.
 This Project Passed on HTML, CSS languages.
