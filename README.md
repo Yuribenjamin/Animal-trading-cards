@@ -1,8 +1,8 @@
 ## Animal-trading-cards
 
-First project in Google Developer Schoolarship.
+First project in Google Developer Scholarship.
 This Project Passed on HTML, CSS languages.
-Small Project Describe The Barn Owl, Average Length, Average life's span, Habitat.
+Small Project Describe The Barn Owl, Average Length, Average life span, Habitat.
 
 ## Contribute
 
